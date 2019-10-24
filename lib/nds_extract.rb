@@ -1,5 +1,6 @@
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 require_relative './directors_database'
+require "pry"
 
 def directors_totals(source)
   result = {}
@@ -26,7 +27,7 @@ end
 
 def list_of_directors(source)
     list = []
-    
+    pry
   # Write this implementation
 end
 
