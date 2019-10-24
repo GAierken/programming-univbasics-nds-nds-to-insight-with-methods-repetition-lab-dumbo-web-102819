@@ -25,6 +25,7 @@ def gross_for_director(d)
 end
 
 def list_of_directors(source)
+    list = []
   # Write this implementation
 end
 
@@ -39,5 +40,3 @@ def total_gross(source)
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
 end
-
-
