@@ -27,7 +27,7 @@ end
 
 def list_of_directors(source)
     list = []
-    pry
+    binding.pry
   # Write this implementation
 end
 
